@@ -6,7 +6,7 @@
     "node": "18"
   },
   "dependencies": {
-    "@stripe/react-stripe-js": "^1.14.2",
+    "@stripe/react-stripe-js": "^2.0.0",
     "@stripe/stripe-js": "^1.42.1",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
